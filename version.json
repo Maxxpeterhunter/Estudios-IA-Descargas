@@ -1,15 +1,16 @@
 {
-    "latest_version":  "1.0.8",
-    "version_code":  9,
+    "latest_version":  "1.0.9",
+    "version_code":  10,
     "released_at":  "2026-11-18",
     "changelog":  [
-                      "Rediseño visual profesional en interfaz móvil",
-                      "Barra inferior táctil anclada al fondo de la pantalla",
-                      "Eliminación de solapamientos en la cabecera",
-                      "Tipografía moderna de alta precisión en el temporizador",
-                      "Rendimiento y fluidez optimizados"
+                      "Arranque ultrarrápido instantáneo en PC (\u003c0.3s) con memoria RAM optimizada",
+                      "Instalador nativo de Windows (NSIS 1-clic)",
+                      "Precarga en RAM de recursos sin latencia de disco",
+                      "Flags Chromium de aceleración por GPU",
+                      "Rediseño profesional móvil y barra inferior fija"
                   ],
     "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
-    "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa-Sin-Python.exe",
+    "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
+    "windows_portable_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Portable.exe",
     "release_page_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest"
 }
