@@ -1,13 +1,12 @@
 {
-  "latest_version": "1.0.6",
-  "version_code": 7,
-  "released_at": "2026-11-18",
-  "changelog": [
-    "Aviso de nueva actualizacion mucho mas visible (barra superior destacada + boton directo en PC y movil)",
-    "Cierre definitivo del aviso de novedades cuando la app ya esta actualizada (no vuelve a aparecer al cerrarlo)",
-    "Oferta de 1a suscripcion PRO: primer mes por solo 3,00 EUR (-40%) via Bizum directo y contador exacto de dias restantes"
-  ],
-  "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
-  "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa-Sin-Python.exe",
-  "release_page_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest"
+    "latest_version":  "1.0.7",
+    "version_code":  8,
+    "released_at":  "2026-11-18",
+    "changelog":  [
+                      "Corrección crítica en carga y procesamiento de grabaciones de audio",
+                      "Blindaje de decodificación y claves oficiales de transcripción y generación de apuntes"
+                  ],
+    "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
+    "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa-Sin-Python.exe",
+    "release_page_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest"
 }
