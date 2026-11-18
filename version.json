@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.1",
-  "version_code": 1,
+  "latest_version": "1.0.2",
+  "version_code": 3,
   "released_at": "2026-11-18",
   "changelog": [
-    "Lanzamiento oficial nativo 0% Render (Android APK firmado + Windows EXE sin Python)",
-    "Motor Whisper ONNX local (Tiny/Base/Small/Medium) + BYOK Gemini y Groq",
-    "Auto-actualizador integrado en 1 clic sin perdida de datos"
+    "Supabase conectado en vivo: validacion online de licencias PRO, caducidad automatica, limite de 2 dispositivos y revocacion instantanea",
+    "Plan Gratuito 20 clases/mes + Planes PRO (Mensual 4.99 EUR, Cuatrimestre 14.99 EUR, Curso Completo 24.99 EUR)",
+    "APK firmado de produccion 0% Render y Windows EXE sin Python"
   ],
   "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
   "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa-Sin-Python.exe",
