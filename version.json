@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.4",
-  "version_code": 5,
+  "latest_version": "1.0.6",
+  "version_code": 7,
   "released_at": "2026-11-18",
   "changelog": [
-    "Pago directo por Bizum integrado en la app (Mensual 4,99 EUR, Cuatrimestre 14,99 EUR, Curso 24,99 EUR) con boton Hazte PRO desde la pantalla principal",
-    "Contador exacto de dias restantes de licencia PRO en PC y movil",
-    "Rediseno completo de escritorio y correcciones de estabilidad"
+    "Aviso de nueva actualizacion mucho mas visible (barra superior destacada + boton directo en PC y movil)",
+    "Cierre definitivo del aviso de novedades cuando la app ya esta actualizada (no vuelve a aparecer al cerrarlo)",
+    "Oferta de 1a suscripcion PRO: primer mes por solo 3,00 EUR (-40%) via Bizum directo y contador exacto de dias restantes"
   ],
   "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
   "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa-Sin-Python.exe",
