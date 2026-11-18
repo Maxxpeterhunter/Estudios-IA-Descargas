@@ -1,0 +1,13 @@
+{
+  "latest_version": "1.0.0",
+  "version_code": 1,
+  "released_at": "2026-11-18",
+  "changelog": [
+    "Lanzamiento oficial nativo 0% Render (Android APK firmado + Windows EXE sin Python)",
+    "Motor Whisper ONNX local (Tiny/Base/Small/Medium) + BYOK Gemini y Groq",
+    "Auto-actualizador integrado en 1 clic sin perdida de datos"
+  ],
+  "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
+  "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa-Sin-Python.exe",
+  "release_page_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest"
+}
