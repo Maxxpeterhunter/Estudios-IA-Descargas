@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.2",
-  "version_code": 3,
+  "latest_version": "1.0.4",
+  "version_code": 5,
   "released_at": "2026-11-18",
   "changelog": [
-    "Supabase conectado en vivo: validacion online de licencias PRO, caducidad automatica, limite de 2 dispositivos y revocacion instantanea",
-    "Plan Gratuito 20 clases/mes + Planes PRO (Mensual 4.99 EUR, Cuatrimestre 14.99 EUR, Curso Completo 24.99 EUR)",
-    "APK firmado de produccion 0% Render y Windows EXE sin Python"
+    "Pago directo por Bizum integrado en la app (Mensual 4,99 EUR, Cuatrimestre 14,99 EUR, Curso 24,99 EUR) con boton Hazte PRO desde la pantalla principal",
+    "Contador exacto de dias restantes de licencia PRO en PC y movil",
+    "Rediseno completo de escritorio y correcciones de estabilidad"
   ],
   "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
   "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa-Sin-Python.exe",
