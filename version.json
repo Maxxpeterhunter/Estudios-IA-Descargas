@@ -1,10 +1,13 @@
 {
-    "latest_version":  "1.0.7",
-    "version_code":  8,
+    "latest_version":  "1.0.8",
+    "version_code":  9,
     "released_at":  "2026-11-18",
     "changelog":  [
-                      "Corrección crítica en carga y procesamiento de grabaciones de audio",
-                      "Blindaje de decodificación y claves oficiales de transcripción y generación de apuntes"
+                      "Rediseño visual profesional en interfaz móvil",
+                      "Barra inferior táctil anclada al fondo de la pantalla",
+                      "Eliminación de solapamientos en la cabecera",
+                      "Tipografía moderna de alta precisión en el temporizador",
+                      "Rendimiento y fluidez optimizados"
                   ],
     "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
     "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa-Sin-Python.exe",
