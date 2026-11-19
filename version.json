@@ -1,12 +1,12 @@
 {
-    "latest_version":  "1.1.0",
-    "version_code":  14,
+    "latest_version":  "1.1.1",
+    "version_code":  15,
     "released_at":  "2026-11-19",
     "changelog":  [
-                      "Solucion definitiva al cambio y comprobacion de claves API de Gemini y Groq",
-                      "Restauracion completa del modulo de traduccion simultanea (voz y texto)",
-                      "Modelos actualizados a generacion 2026 de alta disponibilidad",
-                      "Rendimiento y estabilidad optimizados"
+                      "Eliminacion definitiva del aviso intrusivo de instalacion en movil",
+                      "Apertura inmediata y pestaña directa de Ajustes en la barra inferior de smartphones",
+                      "Reordenacion de la configuracion de IA con claves API de Gemini y Groq en primer plano",
+                      "Navegacion fluida entre secciones de ajustes"
                   ],
     "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
     "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
