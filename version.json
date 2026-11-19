@@ -1,12 +1,12 @@
 {
-    "latest_version":  "1.0.10",
-    "version_code":  11,
+    "latest_version":  "1.0.11",
+    "version_code":  12,
     "released_at":  "2026-11-19",
     "changelog":  [
-                      "Corrección crítica en descarga de PDF de apuntes (renderizado completo de fórmulas LaTeX y diagramas)",
-                      "Corrección del solapamiento visual en cabecera móvil (Estudiante y PRO)",
-                      "Rediseño y pulido estético profesional en smartphones",
-                      "Optimización de rendimiento y arranque instantáneo"
+                      "Solución definitiva a descarga y guardado de PDF en Android y móvil",
+                      "Activación de hoja nativa para compartir y guardar en Descargas o Drive",
+                      "Corrección integral de la cabecera en smartphones",
+                      "Optimización de rendimiento general"
                   ],
     "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
     "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
