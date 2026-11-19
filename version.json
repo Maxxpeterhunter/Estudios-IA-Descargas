@@ -1,11 +1,12 @@
 {
-    "latest_version":  "1.0.12",
-    "version_code":  13,
+    "latest_version":  "1.1.0",
+    "version_code":  14,
     "released_at":  "2026-11-19",
     "changelog":  [
-                      "Correccion critica en PC: Eliminada barra inferior movil en pantallas de ordenador",
-                      "Rediseño compacto del area de grabacion con boton Grabar 100% visible sin scroll",
-                      "Inicio instantaneo optimizado"
+                      "Solucion definitiva al cambio y comprobacion de claves API de Gemini y Groq",
+                      "Restauracion completa del modulo de traduccion simultanea (voz y texto)",
+                      "Modelos actualizados a generacion 2026 de alta disponibilidad",
+                      "Rendimiento y estabilidad optimizados"
                   ],
     "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
     "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
