@@ -1,12 +1,11 @@
 {
-    "latest_version":  "1.0.11",
-    "version_code":  12,
+    "latest_version":  "1.0.12",
+    "version_code":  13,
     "released_at":  "2026-11-19",
     "changelog":  [
-                      "Solución definitiva a descarga y guardado de PDF en Android y móvil",
-                      "Activación de hoja nativa para compartir y guardar en Descargas o Drive",
-                      "Corrección integral de la cabecera en smartphones",
-                      "Optimización de rendimiento general"
+                      "Correccion critica en PC: Eliminada barra inferior movil en pantallas de ordenador",
+                      "Rediseño compacto del area de grabacion con boton Grabar 100% visible sin scroll",
+                      "Inicio instantaneo optimizado"
                   ],
     "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
     "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
