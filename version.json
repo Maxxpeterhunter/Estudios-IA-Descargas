@@ -1,13 +1,14 @@
 {
-    "latest_version": "1.1.3",
-    "version_code": 18,
+    "latest_version": "1.2.0",
+    "version_code": 20,
     "released_at": "2026-11-20",
     "changelog": [
-        "Sincronización total para móviles (PWA y Android APK v18 sin bloqueos de versión)",
-        "Cabeceras anticaché agresivas en server.py para actualización instantánea en móviles",
-        "Puente nativo de descargas e Intents en Android (apertura automática de APKs)",
-        "Módulo de traducción bilingüe ultra-rápido con enlace directo a claves Gemini y Groq",
-        "Resolución definitiva de grabación en PC Windows con gestión de permisos de audio"
+        "🔥 VERSIÓN DEFINITIVA OFICIAL 1.2.0 — Máxima estabilidad unificada en todos los dispositivos",
+        "Sincronización total para móviles: PWA sin retención de caché y nuevo APK Nativo v20",
+        "Puente nativo Android para descargas de actualizaciones y compartición de documentos",
+        "Corrección integral de exportación a PDF vectorial y Word (.docx) sin errores de formato",
+        "Traducción simultánea bilingüe en tiempo real con modelos Google Gemini y Groq LPU",
+        "Grabación de audio en PC optimizada con permisos multimedia nativos en Electron"
     ],
     "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
     "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
