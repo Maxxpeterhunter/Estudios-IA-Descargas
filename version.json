@@ -1,11 +1,12 @@
 {
-    "latest_version": "1.1.2",
-    "version_code": 16,
+    "latest_version": "1.1.3",
+    "version_code": 17,
     "released_at": "2026-11-20",
     "changelog": [
-        "Corrección crítica de inicialización en app.js (TDZ): restauración total del botón de grabación de audio y del guardado y test ping de claves API Gemini y Groq en Ajustes",
-        "Traducción multilingüe nativa optimizada con modelos Llama 3.3 en Groq LPU",
-        "Eliminación de IDs duplicados y protección de claves válidas en arranque"
+        "Resolución definitiva del botón de grabación de micrófono en PC Windows y app nativa Electron",
+        "Configuración integral de permisos de captura de audio y flags multimedia en Electron",
+        "Sincronización total de binarios instalados en el escritorio y accesos directos",
+        "Manejo robusto de frecuencias de muestreo (AudioContext 48kHz fallback nativo) y diagnósticos visuales"
     ],
     "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
     "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
