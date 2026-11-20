@@ -1,15 +1,14 @@
 {
-    "latest_version":  "1.1.1",
-    "version_code":  15,
-    "released_at":  "2026-11-19",
-    "changelog":  [
-                      "Eliminacion definitiva del aviso intrusivo de instalacion en movil",
-                      "Apertura inmediata y pestaña directa de Ajustes en la barra inferior de smartphones",
-                      "Reordenacion de la configuracion de IA con claves API de Gemini y Groq en primer plano",
-                      "Navegacion fluida entre secciones de ajustes"
-                  ],
-    "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
-    "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
-    "windows_portable_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Portable.exe",
-    "release_page_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest"
+    "latest_version": "1.1.2",
+    "version_code": 16,
+    "released_at": "2026-11-20",
+    "changelog": [
+        "Corrección crítica de inicialización en app.js (TDZ): restauración total del botón de grabación de audio y del guardado y test ping de claves API Gemini y Groq en Ajustes",
+        "Traducción multilingüe nativa optimizada con modelos Llama 3.3 en Groq LPU",
+        "Eliminación de IDs duplicados y protección de claves válidas en arranque"
+    ],
+    "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
+    "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
+    "windows_portable_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Portable.exe",
+    "release_page_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest"
 }
