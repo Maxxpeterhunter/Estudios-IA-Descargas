@@ -1,17 +1,16 @@
 {
-    "latest_version": "1.2.0",
-    "version_code": 20,
-    "released_at": "2026-11-20",
-    "changelog": [
-        "🔥 VERSIÓN DEFINITIVA OFICIAL 1.2.0 — Máxima estabilidad unificada en todos los dispositivos",
-        "Sincronización total para móviles: PWA sin retención de caché y nuevo APK Nativo v20",
-        "Puente nativo Android para descargas de actualizaciones y compartición de documentos",
-        "Corrección integral de exportación a PDF vectorial y Word (.docx) sin errores de formato",
-        "Traducción simultánea bilingüe en tiempo real con modelos Google Gemini y Groq LPU",
-        "Grabación de audio en PC optimizada con permisos multimedia nativos en Electron"
-    ],
-    "android_apk_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
-    "windows_exe_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
-    "windows_portable_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Portable.exe",
-    "release_page_url": "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest"
+    "latest_version":  "1.3.0",
+    "version_code":  21,
+    "released_at":  "2026-11-25",
+    "changelog":  [
+                      "🚀 VERSIÓN 1.3.0 — Inicio de Sesión Google + Carpetas por Fecha",
+                      "🔐 Inicio de sesión real con Google opcional (Web, Windows PC y APK Android) con registro en la nube",
+                      "📅 Organización automática en carpetas por fecha (YYYY-MM-DD) al terminar de grabar + pestaña Por Fecha",
+                      "🎙️ Grabación continua Android 14 en segundo plano y con pantalla apagada",
+                      "📄 Exportación PDF A4 optimizada y claves personales Gemini y Groq"
+                  ],
+    "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
+    "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
+    "windows_portable_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Portable.exe",
+    "release_page_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest"
 }
