@@ -3,10 +3,10 @@
     "version_code":  21,
     "released_at":  "2026-11-25",
     "changelog":  [
-                      "🚀 VERSIÓN 1.3.0 — Inicio de Sesión Google + Carpetas por Fecha",
+                      "🚀 VERSIÓN 1.3.0 — Inicio de Sesión Google + Carpetas por Fecha + Motor IA Blindado",
                       "🔐 Inicio de sesión real con Google opcional (Web, Windows PC y APK Android) con registro en la nube",
                       "📅 Organización automática en carpetas por fecha (YYYY-MM-DD) al terminar de grabar + pestaña Por Fecha",
-                      "🎙️ Grabación continua Android 14 en segundo plano y con pantalla apagada",
+                      "🛠️ Corrección integral de transcripción y generación de apuntes en PC y móvil (cero cortes 401/413/429/500)",
                       "📄 Exportación PDF A4 optimizada y claves personales Gemini y Groq"
                   ],
     "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
