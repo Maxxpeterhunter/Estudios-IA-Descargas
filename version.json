@@ -1,8 +1,14 @@
 {
-    "latest_version":  "1.3.4",
-    "version_code":  25,
-    "released_at":  "2026-11-25",
-    "changelog":  "Corrección definitiva de cambio y restablecimiento de API keys (Gemini AQ./AIza y Groq), solución HTTP 413 y corrección táctil z-index en móvil para guardar Ajustes y cerrar modales",
+    "latest_version":  "1.4.0",
+    "version_code":  26,
+    "released_at":  "2026-11-27",
+    "changelog":  [
+                      "Seguridad reforzada: aislamiento IDOR, bloqueo admin remoto, proxy LAN protegido y Electron con sandbox",
+                      "Editor de apuntes conectado a exportaciones PDF, Word, Markdown y TXT sin duplicar KaTeX ni SVG",
+                      "Modo Claro completo con alto contraste en fórmulas KaTeX, diagramas Mermaid, Dossier y barra móvil",
+                      "Rotación multi-clave en pools Gemini/Groq y traductor, rescate HTTP 413 multi-subbloque y limpieza DSP",
+                      "Android 14 protegido con permiso de micrófono previo y bypass automático de cuota gratuita con API Key personal"
+                  ],
     "android_apk_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Nativa.apk",
     "windows_exe_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Instalador.exe",
     "windows_portable_url":  "https://github.com/Maxxpeterhunter/Estudios-IA-Descargas/releases/latest/download/Estudios-IA-Portable.exe",
